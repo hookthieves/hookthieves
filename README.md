@@ -12,4 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hookthieves&show_icons=true&locale=en&layout=compact" alt="hookthieves" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hookthieves&show_icons=true&locale=en" alt="hookthieves" /></p>
 
