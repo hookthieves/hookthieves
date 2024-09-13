@@ -1,1 +1,1 @@
-I'm Cuong Nguyen and I am passionate about all things malware. This is a repository of my current projects. All projects are my own implementations of studies and research on malware development. I am currently working on getting better at c programming and winapi.
+Welcome to my page. I hope these tools help you as much as it helped me
